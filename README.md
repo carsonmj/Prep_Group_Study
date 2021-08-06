@@ -4,7 +4,7 @@
 [Choi Minji](https://github.com/CoRoRo10?tab=repositories) | 
 [Lee Sora](https://github.com/soralee2821) |
 [Jeon Sujin](https://github.com/soozynn) |
-[Kim Jinkwon](https://github.com/soralee2821)
+[Kim Jinkwon](https://github.com/beginner-jk)
   
   
 ### 📣 Information
