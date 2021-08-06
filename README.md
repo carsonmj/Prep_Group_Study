@@ -1,4 +1,4 @@
-## ✍ Code review study
+## ✍ Code Review Study
 
 ### 👨‍👩‍👦‍👦 Member
 [Choi Minji](https://github.com/CoRoRo10?tab=repositories) | 
