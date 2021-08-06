@@ -8,7 +8,7 @@
   
   
 ### 📣 Information
-#### ✅ study 진행 : 매주 월 오후 2시~3시, 금 오후 2시~3시  
+#### ✅ study 진행 : 매주 월 오후 2시-3시, 금 오후 2시-3시  
 #### ✅ online zoom meeting으로 진행  
 #### ✅ study 내용
 >  월 : 주말에 받은 code review 내용 각자 정리 및 refactoring 후, 내용 발표 / QnA  
