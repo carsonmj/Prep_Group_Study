@@ -27,7 +27,7 @@
   
   
 ### Our blog
-1️⃣ [Week1 code review](./Week1)
-2️⃣ [Week2 code review](./Week2)
-3️⃣ [Week3 code review](./Week3)  
+1️⃣ [Week1 code review](./Week1)  
+2️⃣ [Week2 code review](./Week2)  
+3️⃣ [Week3 code review](./Week3)   
   
