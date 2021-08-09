@@ -11,4 +11,4 @@
 - [Choi Minji - Week3 Code Review Summary](https://developerntraveler.tistory.com/105)
 - Lee Sora
 - Jeon Sujin
-- Kim Jinkwon
+- [Kim Jinkwon - Week3 Code Review Summary](https://velog.io/@effort_jk/3%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-Review)
