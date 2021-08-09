@@ -1,11 +1,4 @@
 ## ✍ Code Review Study
-
-### 👨‍👩‍👦‍👦 Member
-[Choi Minji](https://github.com/CoRoRo10?tab=repositories) | 
-[Lee Sora](https://github.com/soralee2821) |
-[Jeon Sujin](https://github.com/soozynn) |
-[Kim Jinkwon](https://github.com/beginner-jk)
-  
   
 ### 📣 Information
 #### ✅ study 진행 : 매주 월 오후 2시-3시, 금 오후 2시-3시  
@@ -17,7 +10,13 @@
 #### ✅ preparation
 주말에 받은 code review 내용은 블로그에 정리한 후 링크 공유
   
+### 👨‍👩‍👦‍👦 Member
+[Choi Minji](https://github.com/CoRoRo10?tab=repositories) | 
+[Lee Sora](https://github.com/soralee2821) |
+[Jeon Sujin](https://github.com/soozynn) |
+[Kim Jinkwon](https://github.com/beginner-jk)
   
+
 ### Study Progress Board
 |no|진행일|내용|기타|             
 |:---:|:---:|:---|:---|      
