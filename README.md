@@ -27,10 +27,7 @@
   
   
 ### Our blog
+1️⃣ [Week1 code review](./Week1)
+2️⃣ [Week2 code review](./Week2)
 3️⃣ [Week3 code review](./Week3)  
-4️⃣ Week4 code review  
-5️⃣ Week5 code review  
-6️⃣ Week6 code review  
-7️⃣ Week7 code review  
-8️⃣ Week8 code review  
-9️⃣ Week9 code review  
+  
