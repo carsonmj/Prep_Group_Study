@@ -26,11 +26,13 @@
 |4|2021.08.09.Mon|3주차 과제 리뷰 피드백 공유 & 블로그 주소 업로드||
 |5|2021.08.27.Fri|6주차 과제 구현 내용 발표||
 |6|2021.08.27.Fri|6주차 과제 리뷰 피드백 공유 & 블로그 주소 업로드||
+|7|2021.09.06.Mon|7주차 과제 리뷰 피드백 공유 & 블로그 주소 업로드||
   
   
 ### Our blog
 1️⃣ [Week1 code review](./Week1)   
 2️⃣ [Week2 code review](./Week2)  
 3️⃣ [Week3 code review](./Week3)   
-4️⃣ [Week6 code review](./Week6)   
+4️⃣ [Week6 code review](./Week6)  
+5️⃣ [Week6 code review](./Week7)    
   
