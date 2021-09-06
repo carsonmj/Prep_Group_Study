@@ -34,5 +34,5 @@
 2️⃣ [Week2 code review](./Week2)  
 3️⃣ [Week3 code review](./Week3)   
 4️⃣ [Week6 code review](./Week6)  
-5️⃣ [Week6 code review](./Week7)    
+5️⃣ [Week7 code review](./Week7)    
   
